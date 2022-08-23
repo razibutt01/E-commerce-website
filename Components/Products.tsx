@@ -17,7 +17,7 @@ import { ProductType } from "./componentTypes";
 import { makeStyles } from "@mui/styles";
 const useStyles = makeStyles({
   title: {
-    margin: "10px 0 10px 0",
+    margin: "10px  0",
     fontWeight: "bold",
   },
   bold: {
